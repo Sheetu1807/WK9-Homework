@@ -37,6 +37,7 @@ public class Que1_Numbers {
 
         }
         System.out.println("Sum of those number is : " + sum + "\n");
+
         sc.close();
     }
 }
